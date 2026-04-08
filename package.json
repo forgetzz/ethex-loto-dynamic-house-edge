@@ -1,0 +1,25 @@
+{
+  "name": "Truffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.8.4",
+    "chai": "^4.2.0",
+    "truffle-assertions": "^0.9.1"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "bn.js": "^5.0.0",
+    "request": "^2.88.2"
+  }
+}
